@@ -1,4 +1,5 @@
-# ous_lt_427
+# ous_lt_42
 
-A new Flutter project.
-# ous_it_427
+下記イベントの登壇用資料
+
+https://okayama-revengers.connpass.com/event/312845/
